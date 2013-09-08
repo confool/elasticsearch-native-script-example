@@ -1,0 +1,5 @@
+# Elastic Search Test Configuration
+cluster.name: test
+
+script.native:
+  testscript.type: com.devveri.search.script.TestScriptFactory

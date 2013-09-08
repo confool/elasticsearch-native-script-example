@@ -1,3 +1,5 @@
-ElasticSearch Native Script Example
-===================================
+ElasticSearch Native Script
+===========================
+
+An example project about ElasticSearch Native Script support.
 

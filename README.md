@@ -1,0 +1,3 @@
+ElasticSearch Native Script Example
+===================================
+
